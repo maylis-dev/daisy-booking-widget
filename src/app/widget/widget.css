@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+@source "../shadow-test.tsx";
+@source "../data/courses.ts";
